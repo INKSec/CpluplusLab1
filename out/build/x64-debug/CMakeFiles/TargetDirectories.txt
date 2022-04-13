@@ -1,0 +1,5 @@
+C:/Users/Micha/Desktop/4. Semester/C++/Labor/Labor1/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Micha/Desktop/4. Semester/C++/Labor/Labor1/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Micha/Desktop/4. Semester/C++/Labor/Labor1/out/build/x64-debug/Labor1/CMakeFiles/Labor1.dir
+C:/Users/Micha/Desktop/4. Semester/C++/Labor/Labor1/out/build/x64-debug/Labor1/CMakeFiles/edit_cache.dir
+C:/Users/Micha/Desktop/4. Semester/C++/Labor/Labor1/out/build/x64-debug/Labor1/CMakeFiles/rebuild_cache.dir

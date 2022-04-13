@@ -1,0 +1,10 @@
+^C:\USERS\MICHA\DESKTOP\4. SEMESTER\C++\LABOR\LABOR1\LABOR1\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Micha/Desktop/4. Semester/C++/Labor/Labor1" "-BC:/Users/Micha/Desktop/4. Semester/C++/Labor/Labor1" --check-stamp-file "C:/Users/Micha/Desktop/4. Semester/C++/Labor/Labor1/Labor1/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

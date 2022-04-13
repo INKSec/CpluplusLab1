@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Micha\Desktop\4. Semester\C++\Labor\Labor1\Labor1\Labor1.h(7,23): warning C5208: Eine unbenannte Klasse, die im typedef-Namen verwendet wird, kann keine anderen Member als nicht statische Datenmember, Memberenumerationen oder Memberklassen deklarieren.
+C:\Users\Micha\Desktop\4. Semester\C++\Labor\Labor1\Labor1\main.cpp(97,2): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  Labor1.vcxproj -> C:\Users\Micha\Desktop\4. Semester\C++\Labor\Labor1\Labor1\Debug\Labor1.exe

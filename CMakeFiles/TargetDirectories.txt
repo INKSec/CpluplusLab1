@@ -1,0 +1,3 @@
+C:/Users/Micha/Desktop/4. Semester/C++/Labor/Labor1/CMakeFiles/ALL_BUILD.dir
+C:/Users/Micha/Desktop/4. Semester/C++/Labor/Labor1/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Micha/Desktop/4. Semester/C++/Labor/Labor1/Labor1/CMakeFiles/Labor1.dir

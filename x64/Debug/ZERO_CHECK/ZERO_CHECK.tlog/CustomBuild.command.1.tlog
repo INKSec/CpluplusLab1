@@ -1,0 +1,10 @@
+^C:\USERS\MICHA\DESKTOP\4. SEMESTER\C++\LABOR\LABOR1\CMAKEFILES\E5FE70341B6860AD773D39AE661D60D3\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Micha/Desktop/4. Semester/C++/Labor/Labor1" "-BC:/Users/Micha/Desktop/4. Semester/C++/Labor/Labor1" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Micha/Desktop/4. Semester/C++/Labor/Labor1/Labor1.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
