@@ -309,6 +309,8 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClInclude Include="C:\Users\Micha\Desktop\4. Semester\C++\Labor\Labor1\Labor1\main.h" />
     <ClCompile Include="C:\Users\Micha\Desktop\4. Semester\C++\Labor\Labor1\Labor1\Labor1.cpp" />
     <ClInclude Include="C:\Users\Micha\Desktop\4. Semester\C++\Labor\Labor1\Labor1\Labor1.h" />
+    <None Include="C:\Users\Micha\Desktop\4. Semester\C++\Labor\Labor1\Labor1\Text.txt">
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\Micha\Desktop\4. Semester\C++\Labor\Labor1\ZERO_CHECK.vcxproj">

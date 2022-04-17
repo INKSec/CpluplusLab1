@@ -20,6 +20,9 @@
     <CustomBuild Include="C:\Users\Micha\Desktop\4. Semester\C++\Labor\Labor1\Labor1\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="C:\Users\Micha\Desktop\4. Semester\C++\Labor\Labor1\Labor1\Text.txt" />
+  </ItemGroup>
+  <ItemGroup>
     <Filter Include="Header Files">
       <UniqueIdentifier>{A2999F11-4554-3393-A256-B720535FEBE1}</UniqueIdentifier>
     </Filter>

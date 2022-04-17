@@ -1,4 +1,13 @@
-﻿  main.cpp
-C:\Users\Micha\Desktop\4. Semester\C++\Labor\Labor1\Labor1\Labor1.h(7,23): warning C5208: Eine unbenannte Klasse, die im typedef-Namen verwendet wird, kann keine anderen Member als nicht statische Datenmember, Memberenumerationen oder Memberklassen deklarieren.
-C:\Users\Micha\Desktop\4. Semester\C++\Labor\Labor1\Labor1\main.cpp(97,2): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+﻿  Labor1.cpp
+C:\Users\Micha\Desktop\4. Semester\C++\Labor\Labor1\Labor1\Labor1.h(13,23): warning C5208: Eine unbenannte Klasse, die im typedef-Namen verwendet wird, kann keine anderen Member als nicht statische Datenmember, Memberenumerationen oder Memberklassen deklarieren.
+C:\Users\Micha\Desktop\4. Semester\C++\Labor\Labor1\Labor1\Labor1.h(30,57): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+C:\Users\Micha\Desktop\4. Semester\C++\Labor\Labor1\Labor1\Labor1.h(31,57): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+C:\Users\Micha\Desktop\4. Semester\C++\Labor\Labor1\Labor1\Labor1.cpp(54,22): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Micha\Desktop\4. Semester\C++\Labor\Labor1\Labor1\Labor1.cpp(85,14): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\Micha\Desktop\4. Semester\C++\Labor\Labor1\Labor1\Labor1.cpp(86,14): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+  main.cpp
+C:\Users\Micha\Desktop\4. Semester\C++\Labor\Labor1\Labor1\Labor1.h(13,23): warning C5208: Eine unbenannte Klasse, die im typedef-Namen verwendet wird, kann keine anderen Member als nicht statische Datenmember, Memberenumerationen oder Memberklassen deklarieren.
+C:\Users\Micha\Desktop\4. Semester\C++\Labor\Labor1\Labor1\Labor1.h(30,57): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+C:\Users\Micha\Desktop\4. Semester\C++\Labor\Labor1\Labor1\Labor1.h(31,57): warning C4227: Anachronismus verwendet: Qualifizierer auf Verweise werden ignoriert
+  Code wird generiert...
   Labor1.vcxproj -> C:\Users\Micha\Desktop\4. Semester\C++\Labor\Labor1\Labor1\Debug\Labor1.exe
